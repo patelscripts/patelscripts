@@ -43,18 +43,12 @@
 </p>
 
 <!-- Main GitHub Stats -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=patelscripts&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <!-- Streak Stats -->
-### 🔥 My GitHub Streak
 
-<p align="center">
-  <a href="https://github.com/patelscripts">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patelscripts&theme=tokyonight&hide_border=false" alt="Navneet's GitHub Streak" />
-  </a>
-</p>
 
 
 
